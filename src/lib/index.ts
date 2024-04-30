@@ -62,7 +62,7 @@ const config: Config = {
         {
             title: "Tasonberth",
             description: "Shopping site that sells all kinds of tech products like phones, laptops, pcs etc",
-            url: ""
+            url: "https://tasonbert.com/"
         },
         {
             title: "Aatiy (coming soon)",
