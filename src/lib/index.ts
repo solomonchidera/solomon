@@ -57,7 +57,7 @@ const config: Config = {
         {
             title: "Profile Maker",
             description: "Automatically generate cool markdown for your guthub profile",
-            url: "https://github.com/SolomonChidera/PROFILE-MAKER"
+            url: "https://github.com/solomonchidera/PROFILE-MAKER"
         },
         {
             title: "Tasonberth",
