@@ -29,7 +29,7 @@
         </div>
         
         <div class="p-1 rounded-full ring-1 ring-white ring-opacity-25 max-w-32 max-h-32">
-            <img class="w-full h-full rounded-full" src="profile.jpeg" alt="Rony's Chibee" width="400" height="400">
+            <img class="w-full h-full rounded-full" src="profile.jpeg" alt="Solomon pics" width="400" height="400">
         </div>
     </div>
 
