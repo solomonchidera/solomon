@@ -40,9 +40,9 @@ const config: Config = {
     ],
     projects: [
         {
-            title: "Flixify",
+            title: "Flixify (coming soon)",
             description: "An adfree, subfree movie streaming site basically from api(s)",
-            url: "https://flixify-jet.vercel.app"
+            url: "https://flixifydev.web.app/"
         },
         {
             title: "Simple Shell",
