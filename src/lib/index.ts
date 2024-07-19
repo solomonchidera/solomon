@@ -5,6 +5,7 @@ import X from "./assets/X.svg?raw";
 import Discord from "./assets/Discord.svg?raw";
 import Github from "./assets/Github.svg?raw";
 import Linked from "./assets/Linked.svg?raw";
+import Kofi from "./assets/Kofi.svg?raw";
 
 interface Config {
     socials: {
@@ -36,6 +37,11 @@ const config: Config = {
             url: "https://github.com/solomonchidera",
             icon: Github,
             name: "Github"
+        },
+        {
+            url: "https://ko-fi.com/solomonchidera",
+            icon: Kofi,
+            name: "Kofi"
         }
     ],
     projects: [
