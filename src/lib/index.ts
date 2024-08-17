@@ -51,14 +51,14 @@ const config: Config = {
             url: "https://flixifydev.web.app/"
         },
         {
-            title: "Simple Shell",
-            description: "A UNIX like terminal built using C programming, supports basic UNIX commands",
-            url: "https://github.com/SolomonChidera/simple_shell"
+            title: "Shaheen",
+            description: "A discord bot that is specifically built for developers with cool commands and features",
+            url: "https://github.com/solomonchidera/shaheen"
         },
         {
-            title: "Printf",
-            description: "A custom printf function that imitiate the standard printf function in C",
-            url: "https://github.com/solomonchidera/printf"
+            title: "Clipboard Logger",
+            description: "A simple clipboard logger script created for MacOs, but will work for any UNIX based system",
+            url: "https://github.com/solomonchidera/clipboardLogger"
         },
         {
             title: "Profile Maker",
