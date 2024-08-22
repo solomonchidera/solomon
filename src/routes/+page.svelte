@@ -21,7 +21,7 @@
                 {#if seeMore}
                     <p transition:slide={{ duration: 100 }}>
                         <br>
-                        I code with both high and low level languages, when am not coding am either listening to music or gaming, am lazy smtimes though, below are among the list of things I’ve built, more to build and some still in development                    </p>
+                        I code with high and low level languages, when am not coding am either listening to music or gaming, am lazy smtimes though, below are among the list of things I’ve built, more to build and some still in development                    </p>
                 {/if}
 
                 <button class="mt-2 font-medium text-white text-opacity-50 underline underline-offset-4 hover:text-opacity-75" on:click={() => seeMore = !seeMore}>{seeMore ? "See less" : "Learn more"}</button>
