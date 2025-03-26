@@ -11,7 +11,7 @@
 
     <div class="flex flex-col-reverse gap-6 md:flex-row">
         <div class="flex flex-col gap-2">
-            <h1 class="font-bricolage.grotesque">hi, i'm solomon</h1>
+            <h1 class="font-bricolage.grotesque">hi, i'm solomon..</h1>
             
             <div>
                 <p>
