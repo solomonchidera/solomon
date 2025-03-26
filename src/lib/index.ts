@@ -46,33 +46,33 @@ const config: Config = {
     ],
     projects: [
         {
-            title: "Flixify (coming soon)",
-            description: "An adfree, subfree movie streaming site basically from api(s)",
+            title: "flixify (coming soon)",
+            description: "an adfree, subfree movie streaming site basically from api(s)",
             url: "https://flixifydev.web.app/"
         },
         {
-            title: "Shaheen",
-            description: "A discord bot that is specifically built for developers with cool commands and features",
-            url: "https://github.com/solomonchidera/shaheen"
+            title: "simple shell",
+            description: "a unix like terminal built using C programming, supports basic UNIX commands",
+            url: "https://github.com/SolomonChidera/simple_shell"
         },
         {
-            title: "Clipboard Logger",
-            description: "A simple clipboard logger script created for MacOs, but will work for any UNIX based system",
-            url: "https://github.com/solomonchidera/clipboardLogger"
+            title: "printf",
+            description: "a custom printf function that imitiate the standard printf function in C",
+            url: "https://github.com/solomonchidera/printf"
         },
         {
-            title: "Profile Maker",
-            description: "Automatically generate cool markdown for your github profile",
+            title: "profile maker",
+            description: "automatically generate cool markdown for your github profile",
             url: "https://github.com/solomonchidera/PROFILE-MAKER"
         },
         {
-            title: "Tasonberth",
-            description: "Shopping site that sells all kinds of tech products like phones, laptops, pcs etc",
+            title: "tasonberth",
+            description: "shopping site that sells all kinds of tech products like phones, laptops, pcs etc",
             url: "https://tasonbert.com/"
         },
         {
-            title: "Aatiy (coming soon)",
-            description: "A fintech application that serves as a digital bank, with credit and debit card option ",
+            title: "aatiy (coming soon)",
+            description: "a fintech application that serves as a digital bank, with credit and debit card option ",
             url: "https://aatiy-3ee19.web.app/"
         }
     ],

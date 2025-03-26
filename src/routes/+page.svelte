@@ -11,17 +11,17 @@
 
     <div class="flex flex-col-reverse gap-6 md:flex-row">
         <div class="flex flex-col gap-2">
-            <h1 class="font-bricolage.grotesque">hi, i'm solomon</h1>
+            <h1 class="font-bricolage.grotesque">hi, i'm solomon..</h1>
             
             <div>
                 <p>
-                    I'm a 21/yr Introverted Software Engineer, I’ve been coding and building stuff since 2018, <Link href="https://docs.python.org/3/">Python</Link> is my go to language with a secret love for <Link href="https://eloquentjavascript.net/">Javascript</Link> :) I'm open to new opportunities!
+                    i'm a 21/yr developer from nigeria, i’ve been coding and building stuff since 2018, <Link href="https://docs.python.org/3/">python</Link> is my go to language with a secret love for <Link href="https://eloquentjavascript.net/">javascript</Link> :) i'm open to new opportunities!
                 </p>
 
                 {#if seeMore}
                     <p transition:slide={{ duration: 100 }}>
                         <br>
-                        I code with other languages too, high levels and low level ones, apart from programming I love playing games, mostly survival and football games, listening to music, i'm currently furthering my knowledge on by pursuing computer science degree and am loving it so far, being with computers gives me joy and the joy boost me to solve atleast a problem while having fun, am lazy smtimes though, below are among the list of things I’ve built, more to build and some still in development                    </p>
+                        i code with other languages too, high levels and low level ones, apart from programming i love playing games, mostly survival and football games, listening to music, i'm currently furthering my knowledge on by pursuing computer science degree and am loving it so far, being with computers gives me joy and the joy boost me to solve atleast a problem while having fun, am lazy smtimes though, below are among the list of things i’ve built, more to build and some still in developent                    </p>
                 {/if}
 
                 <button class="mt-2 font-medium text-white text-opacity-50 underline underline-offset-4 hover:text-opacity-75" on:click={() => seeMore = !seeMore}>{seeMore ? "See less" : "Learn more"}</button>
