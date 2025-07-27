@@ -15,7 +15,7 @@
             
             <div>
                 <p>
-                    i'm a 21/yr developer from nigeria, i’ve been coding and building stuff since 2018, <Link href="https://docs.python.org/3/">python</Link> is my go to language with a secret love for <Link href="https://eloquentjavascript.net/">javascript</Link> :) i'm open to new opportunities!
+                    i'm a 22/yr developer from nigeria, i’ve been coding and building stuff since 2018, <Link href="https://docs.python.org/3/">python</Link> is my go to language with a secret love for <Link href="https://eloquentjavascript.net/">javascript</Link> :) i'm open to new opportunities!
                 </p>
 
                 {#if seeMore}
