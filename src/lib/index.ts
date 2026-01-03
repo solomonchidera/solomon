@@ -46,32 +46,32 @@ const config: Config = {
     ],
     projects: [
         {
-            title: "flixify (coming soon)",
+            title: "Flixify (coming soon)",
             description: "an adfree, subfree movie streaming site basically from api(s)",
             url: "https://flixifydev.web.app/"
         },
         {
-            title: "simple shell",
+            title: "Simple Shell",
             description: "a unix like terminal built using C programming, supports basic UNIX commands",
             url: "https://github.com/SolomonChidera/simple_shell"
         },
         {
-            title: "printf",
+            title: "Printf",
             description: "a custom printf function that imitiate the standard printf function in C",
             url: "https://github.com/solomonchidera/printf"
         },
         {
-            title: "profile maker",
+            title: "Profile Maker",
             description: "automatically generate cool markdown for your github profile",
             url: "https://github.com/solomonchidera/PROFILE-MAKER"
         },
         {
-            title: "tasonberth",
-            description: "shopping site that sells all kinds of tech products like phones, laptops, pcs etc",
-            url: "https://tasonbert.com/"
+            title: "AutoDeskOps",
+            description: "automate, monitor, and control your servers from one dashboard.",
+            url: "https://github.com/solomonchidera/AutoDeskOps"
         },
         {
-            title: "aatiy (coming soon)",
+            title: "Aatiy (coming soon)",
             description: "a fintech application that serves as a digital bank, with credit and debit card option ",
             url: "https://aatiy-3ee19.web.app/"
         }
