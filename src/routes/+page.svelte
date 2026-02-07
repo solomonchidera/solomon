@@ -74,7 +74,7 @@
                 </div>
             {/if}
     
-            <h2 class="text-opacity-25">© 2025 — All rights reserved</h2>
+            <h2 class="text-opacity-25">© 2026 — All rights reserved</h2>
         </div>
 
         <ul class="flex flex-wrap gap-3">
