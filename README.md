@@ -5,3 +5,5 @@ I used svelte to develop this, feel free to use if you want, you can say hello o
 - clone it
 - npm install && npm run dev
 - open on port 5173, edit and see your changes real time
+- create account on vercel
+- host your site and enjoy 
