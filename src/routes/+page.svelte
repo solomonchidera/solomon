@@ -21,7 +21,7 @@
                 {#if seeMore}
                     <p transition:slide={{ duration: 100 }}>
                         <br>
-                        i code in other languages too, high level and low level, apart from programming i love playing games, mostly survival and football games, listening to music, i'm currently furthering my knowledge on by pursuing computer science degree and i am loving it so far, being with computers brings me joy which boosts me to solve complex problems creatively while having funs(even if i embrace being lazy every now and then). below are among the list of things i’ve built, more to build and some still in developent                    </p>
+                        i code in other languages too, high level and low level, apart from programming i love playing games, mostly survival and football games, listening to music, i'm currently furthering my knowledge on by pursuing computer science degree and i am loving it so far, being with computers brings me joy which boosts me to solve complex problems creatively while having fun(even if i embrace being lazy every now and then). below are among the list of things i’ve built, more to build and some still in development                   </p>
                 {/if}
 
                 <button class="mt-2 font-medium text-white text-opacity-50 underline underline-offset-4 hover:text-opacity-75" on:click={() => seeMore = !seeMore}>{seeMore ? "See less" : "Learn more"}</button>
